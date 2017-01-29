@@ -29,24 +29,19 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: https://www.facebook.com/gandhishanu1
+
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
-reddit: username
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+linkedin: https://www.linkedin.com/in/shanugandhi
 
+github:https://github.com/shanugandhi
+stackoverflow: 7044681/mystackoverflow
+
+email: shanu-gandhi@uiowa.edu
 authors:
-    johndoe:
+    Shanu Gandhi:
         name: John Doe
         bio: A Man who travels the world eating noodles
         external-image: false
