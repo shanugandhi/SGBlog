@@ -30,4 +30,13 @@
             {% endif %}
         {% endif %}
     </ul>
+       {% if site.resume == true %}
+            {% if page.title != "Resume" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/resume">About</a>
+                </li>
+            {% endif %}
+        {% endif %}
+    </ul>
+    
 </nav>
