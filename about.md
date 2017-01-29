@@ -5,28 +5,28 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Everything I do I believe in doing it passionately and I always look for ways through which I can add value to the society.
-My expertise lies in writing clean, scalable code in Java, Python,  C# , Ruby and more. I have over 6 years of experience in developing software including but not limited to Web applications and services, Machine learning based Softwares, Standalone Softwares etc
-My other interest area includes: Cloud computing, Computer Networks, Security.
+My expertise lies in writing clean, scalable code in Java, Python,  C# , Ruby and more. I have over 6 years of experience in developing software including but not limited to Web applications and services, Machine learning based Softwares, Standalone Softwares etc<br>
+My other interest area includes: Cloud computing, Computer Networks, Security.<br>
 
-I hold a Bachelors degree in Computer Engineering. 
-Currently pursuing MS in Computer Science.
+I hold a Bachelors degree in Computer Engineering. <br>
+Currently pursuing MS in Computer Science.<br>
+<br>
+Proficient in:-<br>
 
-Proficient in:-
+Programming languages:<br>
+• Java • C++ • C • C# • Python • Swift • Visual basic • Ruby<br>
 
-Programming languages:
-• Java • C++ • C • C# • Python • Swift • Visual basic • Ruby
+Web Technologies:<br>
+• HTML5 • CSS • Javascript • jQuery • Rails • Node.js<br>
 
-Web Technologies:
-• HTML5 • CSS • Javascript • jQuery • Rails • Node.js
+Databases:<br>
+• MySQL • Oracle • MongoDB<br>
 
-Databases:
-• MySQL • Oracle • MongoDB
-
-Others:
+Others:<br>
 • iOS • Android
-
+<br>
 I recently started using Github as a version control, my Github profile link: https://github.com/shanugandhi<p>
-
+<br>
 <h2>Skills</h2>
 
 <ul class="skill-list">
