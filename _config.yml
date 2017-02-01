@@ -70,6 +70,7 @@ projects: false
 about: true
 blog: true
 resume: true
+portfolio: true
 # do you want to show the "read time" of the posts?
 read-time: true
 
