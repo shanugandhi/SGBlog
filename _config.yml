@@ -29,7 +29,7 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: gandhishanu1
+#facebook: gandhishanu1
 
 # google: mygoogle
 # instagram: myinstagram
@@ -39,7 +39,7 @@ linkedin: shanugandhi
 github: shanugandhi
 
 
-email: shanu-gandhi@uiowa.edu
+#email: shanu-gandhi@uiowa.edu
 authors:
     Shanu Gandhi:
         name: John Doe
